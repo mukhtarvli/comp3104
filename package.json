@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "--UPDATED--\r -Mukhtar Ali\r -Comp3104",
   "main": "index.js",
+  "homepage": "https://mukhtarvli.github.io/comp3104",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -15,6 +16,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/pritamworld/f2026_comp3104/issues"
+  },
   "dependencies": {
       "@testing-library/dom": "^10.4.2",
       "@testing-library/jest-dom": "^6.9.1",
